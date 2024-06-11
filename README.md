@@ -1,5 +1,5 @@
 # Machine Learning Tutorial
-This tutorials contains the following topics in Machine Learning:
+This tutorial contains the following topics in Machine Learning. Each topic contains a brief explanation followed by an example written in Python. A dataset is provided for each instance.
 * **Regression**
   * Simple Linear Regression
   * Multiple Linear Regression
